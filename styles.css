@@ -226,3 +226,11 @@ h1 {
     width: 300px;
   }
 }
+button {
+  padding: 0;
+  border: none;
+  background: none;
+}
+a{
+  text-decoration: none;
+}
